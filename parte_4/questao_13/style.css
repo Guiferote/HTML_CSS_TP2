@@ -1,0 +1,29 @@
+h3{
+    text-decoration: underline;
+}
+
+.paragrafos{
+    text-align: left;
+}
+
+#id{
+    color: green;
+}
+
+[type="text"] {
+    border: solid;
+    border-width: 4px;
+}
+
+a[href="https://www.infnet.edu.br/infnet/home/"]{
+    color: black;
+}
+
+.paragrafos article{
+    font-family: cursive;
+}
+
+.mousehover:hover{
+    background-color: blue;
+    color: gold;
+}

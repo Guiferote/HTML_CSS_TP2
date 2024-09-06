@@ -1,0 +1,11 @@
+body {
+    border-radius: 50px;
+background: #624141;
+box-shadow:  20px 20px 60px #533737,
+             -20px -20px 60px #714b4b;
+}
+
+.player{
+    width: 576px;
+    display: flex;
+}

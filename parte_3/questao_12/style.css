@@ -1,0 +1,46 @@
+
+body{
+    width: 992px;
+    margin: 10 10 10 10;
+    background-color: blanchedalmond;
+}
+
+header{
+    background-color: navy;
+    color: gold;
+    display: flex;
+}
+
+.navegacao {
+    margin-right: auto;
+    text-align: center;
+    margin-top: 1em;
+    font-size: 1.1em;
+}
+
+ul{
+    display: flex;
+}
+
+ul li{
+    margin-left: 2em;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: gold;
+}
+
+.logo{
+    margin-left: auto;
+    margin-right: 4px;
+}
+
+section{
+    text-align: justify;
+}
+
+main{
+    width: 992px;
+}

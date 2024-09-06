@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #800;
+    color: aliceblue;
+    height: 2em;
+    line-height: 2em;
+    font-size: 1em;
+    text-align: center;
+    margin: 0;
+}
+
+nav{
+    background-color: rgb(25, 1, 84);
+    color: aliceblue;
+    text-align: center;
+}
+
+nav a{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+}
+
+section{
+    background-color: orange;
+}
+section h4{
+    text-decoration: underline;
+}
+
+article{
+    background-color: green;
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer{
+    background-color: grey;
+    text-align: center;
+    justify-content: center;
+}

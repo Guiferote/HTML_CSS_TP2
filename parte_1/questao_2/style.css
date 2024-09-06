@@ -1,0 +1,30 @@
+p{text-align: left;}
+
+.info{
+    text-align: center;
+    border: 2px solid;
+    border-color: lightgrey;
+    border-radius: 15px;
+    background-color: rgb(250, 235, 235);
+    padding: 20px;
+    margin: 15px;
+}
+
+.pickup#primeiro{
+    font-size: 0.7em;
+    font-weight: lighter;
+    font-style: italic;
+    margin: 10px;
+}
+.pickup#segundo{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.fretes{
+    border-width: 3px;
+    border-style: dashed;
+    text-decoration: underline;
+    margin: 10px;
+}

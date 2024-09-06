@@ -1,0 +1,26 @@
+body{
+    width: 600px;
+
+}
+
+header{
+    background-color: darkgray;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2em;
+}
+main{
+    text-align: center;
+    
+}
+
+article{
+    
+    text-align: justify;
+    font-size: 0.93em;
+}
+
+img{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}

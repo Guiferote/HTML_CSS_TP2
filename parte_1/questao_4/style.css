@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "playwrite";
+    src: url(./downloadedFonts/Playwrite_CU/static/PlaywriteCU-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Sevillana";
+    src: url(./downloadedFonts/Sevillana/Sevillana-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "SUSE";
+    src: url(./downloadedFonts/SUSE/static/SUSE-Regular.ttf) format("truetype");
+}
+
+
+.paragrafo1{
+    font-family: "playwrite";
+}
+
+.paragrafo2{
+    font-family: "Sevillana";
+}
+
+.paragrafo3{
+    font-family: "SUSE";
+}
